@@ -1,5 +1,5 @@
 # Disponibilização de solução com fluxos reutilizáveis para Power Automate Cloud e Power Automate Desktop!
-Importe o arquivo zip da solução no seu ambiente do Power Platform e seja feliz.
+Importe o arquivo zip da solução no seu ambiente do Power Platform.
 
 # Baixe o arquivo zip na pasta "Power Automate Cloud"
 No arquivo (solução) "A000_BR_RPA_ModelosPadroesDeFluxos_1_0_0_1", possuem alguns fluxos reutilizáveis para facilitar seu dia-a-dia. Fluxos como:
